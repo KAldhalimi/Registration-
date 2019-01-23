@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\lab7practice\lab7practice\bin\Debug\lab7practice.exe.config
+C:\Users\admin\source\repos\lab7practice\lab7practice\bin\Debug\lab7practice.exe
+C:\Users\admin\source\repos\lab7practice\lab7practice\bin\Debug\lab7practice.pdb
+C:\Users\admin\source\repos\lab7practice\lab7practice\obj\Debug\lab7practice.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\lab7practice\lab7practice\obj\Debug\lab7practice.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lab7practice\lab7practice\obj\Debug\lab7practice.exe
+C:\Users\admin\source\repos\lab7practice\lab7practice\obj\Debug\lab7practice.pdb
